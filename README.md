@@ -1,6 +1,6 @@
 # English-From-Zero-to-Fluent
 
-# English Learning Repository
+## English Learning Repository
 
 Welcome to this English learning repository! 🎉
 

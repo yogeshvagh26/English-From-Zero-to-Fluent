@@ -4,11 +4,11 @@
 
 Imagine you walk into a room and say **"Give me book."** The person will be **confused**: 
 
-    > Which book? 
+> Which book? 
 
-    > Any book? 
+> Any book? 
 
-    >A specific book?
+> A specific book?
 
 **Articles are small words that come before nouns to give us information:**
 
